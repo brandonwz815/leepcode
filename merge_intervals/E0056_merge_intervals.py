@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/merge-intervals/description/
+# https://chatgpt.com/c/67b68d65-9f7c-8001-aa51-939e9436f9c1
 
 
 def merge(intervals):

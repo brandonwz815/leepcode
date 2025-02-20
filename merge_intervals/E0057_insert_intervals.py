@@ -1,4 +1,6 @@
 # https://leetcode.com/problems/insert-interval/description/
+# https://chatgpt.com/c/67b689ee-9d4c-8001-bc05-8c8e31145c7f
+
 
 def insert(intervals, newInterval):
     result = []
