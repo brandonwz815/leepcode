@@ -2,10 +2,8 @@
 # https://chatgpt.com/c/67b69558-f088-8001-8ef5-077f8dbc21ed
 # https://www.youtube.com/watch?v=68a1Dc_qVq4
 
-from typing import List
 
-
-def nextGreaterElement(nums1: List[int], nums2: List[int]) -> List[int]:
+def nextGreaterElement(nums1, nums2):
     stack = []
     next_greater = {}
 
